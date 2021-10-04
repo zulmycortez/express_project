@@ -1,7 +1,7 @@
 {
-  "name": "number-to-string-server",
+  "name": "node_backend_sample",
   "version": "1.0.0",
-  "description": "transforms numbers into English work equivalents",
+  "description": "Node backend server for Levvel candidates",
   "main": "index.js",
   "scripts": {
     "test": "jest"
